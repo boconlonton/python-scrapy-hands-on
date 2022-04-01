@@ -1,0 +1,98 @@
+{
+    "status": "ok",
+    "datas": {
+        "crawler": {
+            "xml_feed_spider": {
+                "2a13179eb17211ecb78d4d8956f49b9d": {
+                    "log_path": "/home/tan/nongtrai/python-lang/python-scrapy-hands-on/logs/crawler/xml_feed_spider/2a13179eb17211ecb78d4d8956f49b9d.log",
+                    "json_path": "/home/tan/nongtrai/python-lang/python-scrapy-hands-on/logs/crawler/xml_feed_spider/2a13179eb17211ecb78d4d8956f49b9d.json",
+                    "json_url": "http://127.0.0.1:6800/logs/crawler/xml_feed_spider/2a13179eb17211ecb78d4d8956f49b9d.json",
+                    "size": 680792,
+                    "position": 680792,
+                    "status": "ok",
+                    "pages": 2,
+                    "items": 122,
+                    "first_log_time": "2022-04-01 11:14:03",
+                    "latest_log_time": "2022-04-01 11:14:07",
+                    "runtime": "0:00:04",
+                    "shutdown_reason": "N/A",
+                    "finish_reason": "finished",
+                    "last_update_time": "2022-04-01 11:37:29"
+                },
+                "59cadd56b17611ecb78d4d8956f49b9d": {
+                    "log_path": "/home/tan/nongtrai/python-lang/python-scrapy-hands-on/logs/crawler/xml_feed_spider/59cadd56b17611ecb78d4d8956f49b9d.log",
+                    "json_path": "/home/tan/nongtrai/python-lang/python-scrapy-hands-on/logs/crawler/xml_feed_spider/59cadd56b17611ecb78d4d8956f49b9d.json",
+                    "json_url": "http://127.0.0.1:6800/logs/crawler/xml_feed_spider/59cadd56b17611ecb78d4d8956f49b9d.json",
+                    "size": 680794,
+                    "position": 680794,
+                    "status": "ok",
+                    "pages": 2,
+                    "items": 122,
+                    "first_log_time": "2022-04-01 11:44:03",
+                    "latest_log_time": "2022-04-01 11:44:11",
+                    "runtime": "0:00:08",
+                    "shutdown_reason": "N/A",
+                    "finish_reason": "finished",
+                    "last_update_time": "2022-04-01 11:44:20"
+                },
+                "ff051394b17711ecb78d4d8956f49b9d": {
+                    "log_path": "/home/tan/nongtrai/python-lang/python-scrapy-hands-on/logs/crawler/xml_feed_spider/ff051394b17711ecb78d4d8956f49b9d.log",
+                    "json_path": "/home/tan/nongtrai/python-lang/python-scrapy-hands-on/logs/crawler/xml_feed_spider/ff051394b17711ecb78d4d8956f49b9d.json",
+                    "json_url": "http://127.0.0.1:6800/logs/crawler/xml_feed_spider/ff051394b17711ecb78d4d8956f49b9d.json",
+                    "size": 680795,
+                    "position": 680795,
+                    "status": "ok",
+                    "pages": 2,
+                    "items": 122,
+                    "first_log_time": "2022-04-01 11:55:48",
+                    "latest_log_time": "2022-04-01 11:55:52",
+                    "runtime": "0:00:04",
+                    "shutdown_reason": "N/A",
+                    "finish_reason": "finished",
+                    "last_update_time": "2022-04-01 11:56:01"
+                },
+                "40f5ad0eb17811ecb78d4d8956f49b9d": {
+                    "log_path": "/home/tan/nongtrai/python-lang/python-scrapy-hands-on/logs/crawler/xml_feed_spider/40f5ad0eb17811ecb78d4d8956f49b9d.log",
+                    "json_path": "/home/tan/nongtrai/python-lang/python-scrapy-hands-on/logs/crawler/xml_feed_spider/40f5ad0eb17811ecb78d4d8956f49b9d.json",
+                    "json_url": "http://127.0.0.1:6800/logs/crawler/xml_feed_spider/40f5ad0eb17811ecb78d4d8956f49b9d.json",
+                    "size": 680794,
+                    "position": 680794,
+                    "status": "ok",
+                    "pages": 2,
+                    "items": 122,
+                    "first_log_time": "2022-04-01 11:57:43",
+                    "latest_log_time": "2022-04-01 11:57:51",
+                    "runtime": "0:00:08",
+                    "shutdown_reason": "N/A",
+                    "finish_reason": "finished",
+                    "last_update_time": "2022-04-01 11:57:51"
+                }
+            }
+        }
+    },
+    "settings_py": "/home/tan/nongtrai/python-lang/python-scrapy-hands-on/venv/lib/python3.8/site-packages/logparser/settings.py",
+    "settings": {
+        "scrapyd_server": "127.0.0.1:6800",
+        "scrapyd_logs_dir": "/home/tan/nongtrai/python-lang/python-scrapy-hands-on/logs",
+        "parse_round_interval": 10,
+        "enable_telnet": true,
+        "override_telnet_console_host": "",
+        "log_encoding": "utf-8",
+        "log_extensions": [
+            ".log",
+            ".txt"
+        ],
+        "log_head_lines": 100,
+        "log_tail_lines": 200,
+        "log_categories_limit": 10,
+        "jobs_to_keep": 100,
+        "chunk_size": 10000000,
+        "delete_existing_json_files_at_startup": false,
+        "keep_data_in_memory": false,
+        "verbose": false,
+        "main_pid": 25551
+    },
+    "last_update_timestamp": 1648789071,
+    "last_update_time": "2022-04-01 11:57:51",
+    "logparser_version": "0.8.2"
+}
